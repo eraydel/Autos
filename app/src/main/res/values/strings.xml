@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Cars App</string>
+    <string name="version">Desarrollado por Erick Ayala | Version 1.0 Marco 2022</string>
+    <string name="listar_autos">Mis autos favoritos</string>
+    <string name="editar_auto">Editar auto</string>
+    <string name="detalle_auto">Detalle del auto</string>
+    <string name="agregar_auto">Agregar nuevo auto</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnEditar">Editar</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="tvTitulo">Mi listado</string>
+    <string name="valor_requerido">Valor requerido!</string>
+    <string name="sin_datos">Tu lista está vacía, agrega un nuevo auto.</string>
+    <string name="actvMarcas">Selecciona una marca</string>
+    <string name="actvModelo">Modelo</string>
+    <string name="actvAnio">Año</string>
+    <string name="actvPrecio">Precio</string>
+    <string name="opcion1">Tesla</string>
+    <string name="opcion2">Mazda</string>
+    <string name="opcion3">Toyota</string>
+    <string name="opcion4">Mercedes</string>
+    <string name="mensaje_actualizado">Registro actualizado exitosamente</string>
+    <string name="mensaje_guardado">Registro guardado exitosamente</string>
+    <string name="mensaje_eliminado">Registro eliminado exitosamente</string>
+    <string name="error_baseDatos">Error al guardar en la base de datos</string>
+    <string name="error_actualizar">Error al actualizar el registro</string>
+    <string name="msjDialogTitulo">Confirmación</string>
+    <string name="mensajeDialogSi">Sí</string>
+    <string name="mensajeDialogNo">No</string>
+    <string name="llena_campos">Ops! Por favor llene todos los campos</string>
+    <string name="msjDialogPregunta">¿Realmente deseas eliminar el auto %1s ?</string>
+    <string-array name="listado_marcas">
+        <item>@string/opcion1</item>
+        <item>@string/opcion2</item>
+        <item>@string/opcion3</item>
+        <item>@string/opcion4</item>
+    </string-array>
+</resources>

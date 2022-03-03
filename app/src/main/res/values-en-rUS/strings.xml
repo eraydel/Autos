@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cars App</string>
+    <string name="version">Developed by Erick Ayala | V 1.0  March 2022</string>
+    <string name="btnAgregar">Add</string>
+    <string name="btnEditar">Edit</string>
+    <string name="btnActualizar">Update</string>
+    <string name="listar_autos">My favorite cars</string>
+    <string name="editar_auto">Edit car</string>
+    <string name="detalle_auto">Car details</string>
+    <string name="agregar_auto">Add new car</string>
+    <string name="btnEliminar">Delete</string>
+    <string name="tvTitulo">My list</string>
+    <string name="valor_requerido">Required value!</string>
+    <string name="sin_datos">Your list is empty, add a new car</string>
+    <string name="actvMarcas">Choose a mark</string>
+    <string name="opcion1">Tesla</string>
+    <string name="opcion2">Mazda</string>
+    <string name="opcion3">Toyota</string>
+    <string name="opcion4">Mercedes</string>
+    <string name="mensaje_actualizado">Record updated successfully</string>
+    <string name="mensaje_guardado">Record saved successfully</string>
+    <string name="mensaje_eliminado">Record deleted successfully</string>
+    <string name="error_baseDatos">Error saving to database</string>
+    <string name="error_actualizar">Error updating record</string>
+    <string name="msjDialogTitulo">Confirmation</string>
+    <string name="mensajeDialogSi">Yes</string>
+    <string name="mensajeDialogNo">No</string>
+    <string name="llena_campos">Ops! Please fill all the fields</string>
+    <string name="msjDialogPregunta">Do you really want to delete the car %1s?</string>
+    <string name="actvModelo">Model</string>
+    <string name="actvAnio">Year</string>
+    <string name="actvPrecio">Price</string>
+</resources>

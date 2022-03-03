@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/drawable/ic_add.xml" value="0.2195" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/drawable/ic_car.xml" value="0.2415" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/drawable/ic_delete.xml" value="0.2325" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/drawable/ic_edit.xml" value="0.2325" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/drawable/ic_next.xml" value="0.272" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/layout/activity_details.xml" value="0.278125" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/layout/activity_edit.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/layout/activity_insert.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/layout/activity_main.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/layout/activity_splash.xml" value="0.36875" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/layout/list_item.xml" value="0.5714285714285714" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/layout/list_makers.xml" value="0.36875" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3095" />
+        <entry key="..\:/Users/aade8215/AndroidStudioProjects/Autos/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.256" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
